@@ -37,5 +37,5 @@ Design Responsivo : Garantir que o layout fique bonito tanto em desktops quanto 
 Compatibilidade de Estilos : Combinar o clima sombrio da série com elementos legíveis e acessíveis foi um desafio criativo.
 
 ## Como o Git Ajudou
-Controle de Versão : Cada etapa do desenvolvimento foi registrada em commits bem descritos, permitindo voltar às versões anteriores quando necessário.
-Rastreamento de Problemas : Bugs encontrados foram registrados como problemas e corrigidos de forma sistemática.
+ - Controle de Versão : Cada etapa do desenvolvimento foi registrada em commits bem descritos, permitindo voltar às versões anteriores quando necessário.
+ - Rastreamento de Problemas : Bugs encontrados foram registrados como problemas e corrigidos de forma sistemática.
