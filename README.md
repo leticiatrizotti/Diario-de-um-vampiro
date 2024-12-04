@@ -1,24 +1,34 @@
-#Diários de um Vampiro - Página Temática
-#Objetivo do Projeto
-#O objetivo deste projeto é criar uma página temática dedicada à série Diários de um Vampiro , combinando informações sobre a série, motivos pelos quais são tão cativantes, e uma interface interativa e visualmente envolvente. Este projeto também serve como uma oportunidade para praticar habilidades em HTML, CSS e JavaScript, com ênfase no uso dinâmico de dados e personalização de estilos.
+# *Diários de um Vampiro - Página Temática*
 
-Funcionalidades Planejadas
-Página Descritiva :
-Apresentar uma descrição detalhada da série.
-Listar os motivos pelos quais a série é marcante para os fãs.
-Design Temático :
-Layout estilizado inspirado no tom sombrio e romântico da série.
-Uso de cores escuras, efeitos de sombra e fontes elegantes.
-Responsabilidade :
-Compatibilidade com dispositivos móveis e diferentes tamanhos de tela.
+## *Objetivo do Projeto*
+O objetivo deste projeto é criar uma página temática dedicada à série Diários de um Vampiro, combinando informações sobre a série, motivos pelos quais ela é tão cativante, e uma interface interativa e visualmente envolvente. Este projeto também serve como uma oportunidade para praticar habilidades em *HTML, **CSS* e *JavaScript*, com ênfase no uso dinâmico de dados e personalização de estilos.
 
-Cronograma de Desenvolvimento
-Configuração Inicial:	Estruturar o repositório com HTML, CSS e JS básico.	Dia 1
-Design Temático:	Desenvolver o estilo baseado na estética da série.	Dia 2
-Implementação de Funcionalidades:	Adicionar interatividade via JavaScript.	Dia 3
-Testes e Ajustes:	Garantir responsabilidade e corrigir possíveis bugs.	Dia 4
-Documentação:	Escrever o README e documentar o processo.	Dia 5
+---
 
+## *Funcionalidades Planejadas*
+
+- *Página Descritiva:*
+  - Apresentar uma descrição detalhada da série.
+  - Listar os motivos pelos quais a série é marcante para os fãs.
+
+- *Design Temático:*
+  - Layout estilizado inspirado no tom sombrio e romântico da série.
+  - Uso de cores escuras, efeitos de sombra e fontes elegantes.
+
+- *Responsividade:*
+  - Compatibilidade com dispositivos móveis e diferentes tamanhos de tela.
+
+---
+
+## *Cronograma de Desenvolvimento*
+
+| Dia  | Tarefa                                  |
+|------|-----------------------------------------|
+| Dia 1 | Estruturar o repositório com HTML, CSS e JS básico. |
+| Dia 2 | Desenvolver o estilo baseado na estética da série. |
+| Dia 3 | Adicionar interatividade via JavaScript. |
+| Dia 4 | Garantir responsividade e corrigir possíveis bugs. |
+| Dia 5 | Escrever o README e documentar o processo. |
 Documentação do Processo de Desenvolvimento
 Desafios Enfrentados
 Design Responsivo : Garantir que o layout fique bonito tanto em desktops quanto em dispositivos móveis, ajustes no CSS e testes constantes.
