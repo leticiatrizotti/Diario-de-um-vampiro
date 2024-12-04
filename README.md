@@ -33,8 +33,8 @@ O objetivo deste projeto é criar uma página temática dedicada à série Diár
 ## Documentação do Processo de Desenvolvimento
 
 ## Desafios Enfrentados
-Design Responsivo : Garantir que o layout fique bonito tanto em desktops quanto em dispositivos móveis, ajustes no CSS e testes constantes.
-Compatibilidade de Estilos : Combinar o clima sombrio da série com elementos legíveis e acessíveis foi um desafio criativo.
+ - Design Responsivo : Garantir que o layout fique bonito tanto em desktops quanto em dispositivos móveis, ajustes no CSS e testes constantes.
+ - Compatibilidade de Estilos : Combinar o clima sombrio da série com elementos legíveis e acessíveis foi um desafio criativo.
 
 ## Como o Git Ajudou
  - Controle de Versão : Cada etapa do desenvolvimento foi registrada em commits bem descritos, permitindo voltar às versões anteriores quando necessário.
