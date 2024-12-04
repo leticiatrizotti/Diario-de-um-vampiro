@@ -1,6 +1,6 @@
-Diários de um Vampiro - Página Temática
-Objetivo do Projeto
-O objetivo deste projeto é criar uma página temática dedicada à série Diários de um Vampiro , combinando informações sobre a série, motivos pelos quais são tão cativantes, e uma interface interativa e visualmente envolvente. Este projeto também serve como uma oportunidade para praticar habilidades em HTML, CSS e JavaScript, com ênfase no uso dinâmico de dados e personalização de estilos.
+#Diários de um Vampiro - Página Temática
+#Objetivo do Projeto
+#O objetivo deste projeto é criar uma página temática dedicada à série Diários de um Vampiro , combinando informações sobre a série, motivos pelos quais são tão cativantes, e uma interface interativa e visualmente envolvente. Este projeto também serve como uma oportunidade para praticar habilidades em HTML, CSS e JavaScript, com ênfase no uso dinâmico de dados e personalização de estilos.
 
 Funcionalidades Planejadas
 Página Descritiva :
